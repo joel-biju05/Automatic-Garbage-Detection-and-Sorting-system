@@ -1,1 +1,0 @@
-# Automatic-Garbage-Detection-and-Sorting-system
